@@ -14,14 +14,14 @@ class Scene1 extends Phaser.Scene {
     this.load.image("ui", "assets/uiText.png");
     this.load.image("mm", "assets/misilMagico.png");
     this.load.image("ravenAtk", "assets/ravenAtk.png");
-    this.load.image("portada", "assets/portada.png");
+    this.load.image("portada", "assets/Portada.png");
     this.load.image("btn", "assets/btnJugar.png");
     this.load.image("btnGit", "assets/btnGit.png");
     this.load.spritesheet("keyz", "assets/keyZ.png", {
       frameWidth: 32,
       frameHeight: 30,
     });
-    this.load.spritesheet("lagartito", "assets/lagartito.png", {
+    this.load.spritesheet("lagartito", "assets/Lagartito.png", {
       frameWidth: 68,
       frameHeight: 18,
     });
